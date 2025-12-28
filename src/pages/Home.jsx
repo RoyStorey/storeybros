@@ -1,8 +1,7 @@
 import Header from "../components/Header.jsx";
 import Footer from "../components/Footer.jsx";
 import "../styles/homepage.css";
-import herobackground from "../media/background.png";
-import backgroundVideo from "../media/test2.mp4";
+import herobackground from "../media/background.jpg";
 import stockImage1 from "../media/advert1.png";
 import stockImage2 from "../media/advert2.png";
 import storeImage1 from "../media/store1.jpg";
