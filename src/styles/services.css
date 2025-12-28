@@ -1,0 +1,102 @@
+.services-hero {
+  background: var(--storeydeepgrey);
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-sizing: border-box;
+  color: var(--storeywhite);
+  padding: 0px;
+}
+
+.services-hero h1 {
+  display: flex;
+  text-align: center;
+}
+
+.services-wedo-section {
+  color: var(--storeywhite);
+  height: auto;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 1rem 1rem 2rem 1rem;
+  box-sizing: border-box;
+}
+
+.services-wedo-section img {
+  width: auto;
+  max-height: 40vh;
+  -o-object-fit: cover;
+     object-fit: cover;
+  flex: 1;
+}
+
+.services-wedo-text-container {
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  padding: 1rem;
+  margin-left: 1rem;
+}
+
+.services-wedo-header h2 {
+  font-weight: 400;
+  font-size: 30px;
+}
+
+.services-wedo-header p {
+  font-size: 20px;
+  font-weight: lighter;
+  font-style: italic;
+  line-height: 30px;
+  margin-right: 2rem;
+}
+
+.ribbon-section {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  justify-content: space-between;
+  box-sizing: border-box;
+  padding-block: 2rem;
+  border-top: 1px solid var(--storeyborder);
+}
+
+.ribbon {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  color: var(--storeywhite);
+  padding: 1rem;
+  gap: 2rem;
+  padding-inline: 20vw;
+}
+
+.ribbon img {
+  width: 10vw;
+  border-radius: 4px;
+  aspect-ratio: 1/1;
+}
+
+.ribbon h3 {
+  font-weight: 500;
+  color: var(--storeywhite);
+}
+
+.ribbon p {
+  font-size: 18px;
+  font-weight: lighter;
+  font-style: italic;
+  line-height: 30px;
+  text-indent: 1rem;
+}
+
+.ribbon-header {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}/*# sourceMappingURL=services.css.map */

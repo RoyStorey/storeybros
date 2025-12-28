@@ -1,0 +1,28 @@
+.contact-container {
+	color: var(--storeydeepred);
+	display: flex;
+	justify-content: center;
+	gap: 1rem;
+	padding: 2rem 30rem;
+	// height: 100vh;
+	// background-color: red;
+	flex-direction: row;
+	iframe {
+		width: 100%;
+		border: none;
+		border-radius: 10px;
+	}
+}
+
+.contact-information {
+	// background-color: rgb(178, 223, 178);
+	// outline: 1px solid black;
+	display: flex;
+	// justify-content: center;
+	flex-direction: column;
+	text-align: center;
+	width: 100%;
+	p {
+		margin: 8px;
+	}
+}

@@ -1,0 +1,23 @@
+.contact-container {
+  color: var(--storeydeepred);
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  padding: 2rem 30rem;
+  flex-direction: row;
+}
+.contact-container iframe {
+  width: 100%;
+  border: none;
+  border-radius: 10px;
+}
+
+.contact-information {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  width: 100%;
+}
+.contact-information p {
+  margin: 8px;
+}/*# sourceMappingURL=contact.css.map */
